@@ -1,0 +1,7 @@
+Task I
+2. Because if we enable UFW with no rules, we won't be able to connect to our server through SSH.
+7. The fact that the server is active and that the ports I've specified are allowed in from anywhere.
+8. sudo ufw deny from 10.0.0.0
+9. sudo ufw allow from 192.168.1.50 to any port 587. This port is used for email submissions.
+
+Task II
