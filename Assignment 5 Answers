@@ -5,3 +5,5 @@ Task I
 9. sudo ufw allow from 192.168.1.50 to any port 587. This port is used for email submissions.
 
 Task II
+3. It will let us know the IP Address of the device causing traffic, and what port it is causing traffic on, as well as whether or not it is currently blocked.
+5. No, because I have not denied any IP Addresses access during this use of the terminal.
