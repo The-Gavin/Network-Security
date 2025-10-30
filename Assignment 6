@@ -1,0 +1,3 @@
+4. A rule that sticks out to me is the one about the backdoor, which I assume is for detecting exploited vulnerabilities. The purpose of rules in general is to perform actions in response to traffic between source and destination IPs.
+7. I found a bunch of files called "snort.alert..." with a number. All of them had content except for snort.alert.fast, which I assume is because it has no associated number like every other file, so it doesn't describe an alert itself, but stands for a category of one.
+8. Control+C
